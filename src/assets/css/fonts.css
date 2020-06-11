@@ -1,0 +1,14 @@
+@font-face {
+    font-family: MullerBold;
+    src: url("../assets/fonts/Fontfabric - MullerBold.otf");
+}
+
+@font-face {
+    font-family: MullerExtraBold;
+    src: url("../assets/fonts/Fontfabric - MullerExtraBold.otf");
+}
+
+@font-face {
+    font-family: MullerMedium;
+    src: url("../assets/fonts/Fontfabric - MullerMedium.otf");
+}
